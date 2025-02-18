@@ -1,5 +1,5 @@
 # Peanut
-a simple web-ui client for llama.cpp
+A simple web-ui client for llama.cpp
 
 
 HOW TO USE
